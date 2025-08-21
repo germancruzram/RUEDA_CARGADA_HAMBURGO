@@ -49,6 +49,15 @@ Ejemplo conceptual:
 }
 ```
 
+## 🤝**Contribuciones y recomendaciones**
+
+Son bienvenidas. En mi perfil encuentran mi contacto
+
+## 👨‍💻**Autor**
+
+German Ahmed Cruz Ramírez  
+[LinkedIn](https://www.linkedin.com/in/german-cruz-ram-in24/)
+
 ---
 
 Si crees útil esta herramienta para el análisis del ensayo de Rueda de Hamburgo (AASHTO T 324), no olvides dejar una estrella ⭐ en el repositorio.
