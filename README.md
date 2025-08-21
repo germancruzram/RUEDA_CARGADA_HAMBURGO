@@ -3,6 +3,7 @@
 Aplicación de escritorio para el análisis del ensayo de Rueda de Hamburgo (Hamburg Wheel Tracking Test, **AASHTO T 324**), orientada a profesionales y técnicos en ingeniería de pavimentos.  
 Facilita la detección del punto de flujo (**Nsip**) en mezclas asfálticas y la visualización técnica de resultados mediante controles sencillos e intuitivos.
 
+Link para descarga:
 https://github.com/germancruzram/RUEDA_CARGADA_HAMBURGO/releases/download/RUEDA_DE_HAMBURGO_AASHTO_T324/RuedaHamburgo.rar
 
 ## Características principales
